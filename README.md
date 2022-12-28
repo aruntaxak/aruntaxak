@@ -3,6 +3,7 @@
 - 🌱 I’m currently backtesting strategies
 - 💞️ I’m looking to collaborate on trading strategies
 - 📫 Reach me at aruntaxak@gmail.com
+- Learn more about my work at - https://taxakcapital.weebly.com/
 - Follow me at https://twitter.com/arunMorgensonne
 
 <!---
